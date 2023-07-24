@@ -1,4 +1,6 @@
-This is new file - line 1
+//  This is new file - line 1
 This is new file - line 4
 dev branch -first change
-New line for Feature F2
+New HAHHAHAHA Loser line for Feature F2 // 
+
+By AD in dev
